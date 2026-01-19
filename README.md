@@ -40,9 +40,3 @@ Here is an UDACITY project:
 * **LinkedIn:** [linkedin.com/in/estefania-aranguren/](https://www.linkedin.com/in/estefania-aranguren/)
 
 ---
-
-## 📊 GitHub Statistics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=steffaru&show_icons=true&theme=radical)
-
----
